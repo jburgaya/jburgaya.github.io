@@ -2,11 +2,11 @@
 
 This website offers a brief overview of myself, including an introduction, my resume, research projects, and publications.
 
+*The website was created using BootstrapMade template with major modifications.*
 **Languages:** HTML, CSS, JavaScript
 
 **Text editor:** VS Code
 
-The website was created using BootstrapMade template with major modifications.
 
 ## Suggestions
 
